@@ -1,4 +1,7 @@
-﻿# Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
+This is a fork for the Monoprice Maker Ultimate with bead leveling using a Mini Differential IR Height Sensor. Particularly this one: https://www.amazon.com/gp/product/B07RKTQ53F/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
+# Marlin 3D Printer Firmware for the Duplicator 6 autobuild edition
+
 
 For prebuilt firmware version look in the [releases](https://github.com/dot-bob/Marlin-Duplicator-6/releases) section.
 
